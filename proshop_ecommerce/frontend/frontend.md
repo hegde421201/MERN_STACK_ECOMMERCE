@@ -23,3 +23,22 @@ broswer pop up with the URL
 http://localhost:3000/
 
 The app is ready for further changes!
+
+## Step 3: Install bootstrap dependencies for UI
+
+Use the command npm install react-bootstrap bootstrap react-icons
+
+Go to the src folder and make changes in the index.tsx file
+Include this import statement at the top of the file ---
+import "bootstrap/dist/css/bootstrap.min.css";
+
+## Step 4: Create Header component
+
+Create a new folder inside src and name it as "components".
+Inside the components folder create a new file "Header.tsx"
+
+Include the two import statements above for bootstrap and icons.
+
+## Step 5: Create Footer component
+
+Inside the components folder create a new file "Footer.tsx"
