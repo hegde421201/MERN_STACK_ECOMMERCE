@@ -39,6 +39,12 @@ Inside the components folder create a new file "Header.tsx"
 
 Include the two import statements above for bootstrap and icons.
 
+In every component file, I have included comments for better understanding of the code.
+
+[Header.tsx](https://github.com/hegde421201/MERN_STACK_ECOMMERCE/blob/main/proshop_ecommerce/frontend/src/components/Header.tsx)
+
 ## Step 5: Create Footer component
 
 Inside the components folder create a new file "Footer.tsx"
+
+[Footer.tsx](https://github.com/hegde421201/MERN_STACK_ECOMMERCE/blob/main/proshop_ecommerce/frontend/src/components/Footer.tsx)
