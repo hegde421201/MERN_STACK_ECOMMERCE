@@ -73,7 +73,7 @@ This component populates each product in the grid defined using the Product.tsx 
 
 Here we use the typescript style of defining the product prop.
 
-The <Card> component is part of the react-bootstrap library, and it is used to
+The Card component is part of the react-bootstrap library, and it is used to
 create a card-based layout for displaying content.
 
 ## Step 9:
